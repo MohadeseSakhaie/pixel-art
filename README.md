@@ -1,2 +1,2 @@
 # pixel-art
-trying to cod a pixel art
+trying to code a pixel art
